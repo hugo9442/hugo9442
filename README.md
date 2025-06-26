@@ -50,7 +50,7 @@ Plataforma completa para **propietarios, inquilinos y administradores**, que ges
 
 ## 🌐 Conectemos
 
-- 💼 www.linkedin.com/in/hugo-martínez-garcía-19006571
+- 💼 www.linkedin.com/in/hugo-martínez-garcía
 - 📧 hugo9442@gmail.com
 - 📍 Ubicación: España
 - 🔗 Despliegue en Render / Vercel en proceso
